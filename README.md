@@ -2,7 +2,7 @@
 
 This repository documents the original technical development of a system for automated orthodontic root parallelism assessment using deep learning and computer vision.
 
-While the general idea of measuring root angles has been previously discussed in the clinical field, the **specific technical realization** — including the system architecture, algorithmic approach, model design, segmentation refinement, axis computation, and integration of geometric and deep learning methods — was entirely conceived and implemented by **Minoo Ahmadi**.
+While the general idea of measuring root angles has been previously discussed in the clinical field, the **specific technical realization**, including the system architecture, algorithmic approach, model design, segmentation refinement, axis computation, and integration of geometric and deep learning methods, was entirely conceived and implemented by **Minoo Ahmadi**.
 
 This repository serves as a **time-stamped record of technical inventorship**, establishing independent authorship of the engineering and computational framework behind the system.
 
